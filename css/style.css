@@ -1,0 +1,20 @@
+body{
+    background-image: url(../img/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.link{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;    
+}
